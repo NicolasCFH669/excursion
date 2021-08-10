@@ -28,7 +28,7 @@ p .cta {
   color: aquamarine;
 }
 
-div .footer {
+div .footer p{
   text-align: right;
   color: gray;
 }
