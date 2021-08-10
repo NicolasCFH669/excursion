@@ -1,7 +1,5 @@
-*{
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
 body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   background-color: black;
   text-align: center;
   color:white;
@@ -13,6 +11,7 @@ h1 {
 }
 
 h2 {
+  color: white;
   font-size: 42px;
   font-weight: 300;
 }
