@@ -29,6 +29,6 @@ p .cta {
 }
 
 .footer {
-  text-align: right;
+  text-align: right !important;
   color: gray;
 }
